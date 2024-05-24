@@ -1,0 +1,10 @@
+$primary: #ffb749;
+
+$theme-colors: (
+  "primary": $primary
+);
+$enable-shadows: true;
+
+@import "../libs/bootstrap/scss/bootstrap";
+@import "../libs/bootstrap/scss/functions";
+@import "../libs/bootstrap/scss/variables"
